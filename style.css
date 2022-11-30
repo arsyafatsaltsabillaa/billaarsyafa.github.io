@@ -1,0 +1,11 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: white;
+}
+
+#projects {
+  background-color: white;
+}
+.card-text{
+  font-size: 10px;
+}
